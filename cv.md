@@ -1,7 +1,10 @@
-## 1)Khodakov Dmitry
-## 2)Telegram: __https://t.me/dimkanedimon__ / Email : __hoddima8@gmail.com__
-## 3)I wish to start creating programs for ios devices cuz it's more interesting than development on Python for example and more demanded in market.
-## 4) Python, telebot, mongodb, useragent and e.t.c python libraries
+## 1)*Khodakov Dmitry*
+
+## 2)*Telegram:* __https://t.me/dimkanedimon__ */ Email :* __hoddima8@gmail.com__
+
+## 3)*I wish to start creating programs for ios devices cuz it's more interesting than development on Python for example and more demanded in market.*
+
+## 4)*Python, telebot, mongodb, useragent and e.t.c python libraries*
 
 ## 5)    
 
@@ -33,6 +36,8 @@
             bot.send_message(message.chat.id, 'Произошла ошибка,попробуйте ещё раз',)
             bot.register_next_step_handler_by_chat_id(message.chat.id, voice)
             
-## 6)  __https://github.com/Dmit10kidd__
-## 7) **Multifield college based on Tyumen Industrial University** *Tyumen, Russia, 2017-2019* **Graduated on speciality: Radio communication, broadcasting and television**
-## 8) I'm studying English from 1st class of elementary school and self-study by watching films, playing videogames and practice with native speakers.
+## 6) *Expirience:*  __https://github.com/Dmit10kidd__
+
+## 7) *Education:* **Multifield college based on Tyumen Industrial University,** *Tyumen, Russia, 2017-2019.* **Graduated on speciality: Radio communication, broadcasting and television**
+
+## 8) *English skills:* I'm studying English from 1st class of elementary school and self-study by watching films, playing videogames and practice with native speakers.
