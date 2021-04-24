@@ -1,10 +1,12 @@
-## 1)*Khodakov Dmitry*
+## 1)__First and Second names:__*Dmitry Khodakov*
 
-## 2)*Telegram:* __https://t.me/dimkanedimon__ */ Email :* __hoddima8@gmail.com__
+## 2)__Contacts:__ 
+### *Telegram:* __https://t.me/dimkanedimon__ 
+### *Email :* __hoddima8@gmail.com__
 
-## 3)*I wish to start creating programs for ios devices cuz it's more interesting than development on Python for example and more demanded in market.*
+## 3)__Wishes:__*I wish to start creating programs for ios devices cuz it's more interesting than development on Python for example. And ios development is more demanded in market.*
 
-## 4)*Python, telebot, mongodb, useragent and e.t.c python libraries*
+## 4)__Programming skills__:*Python, telebot, mongodb, useragent and e.t.c python libraries*
 
 ## 5)    
 
@@ -36,8 +38,8 @@
             bot.send_message(message.chat.id, 'Произошла ошибка,попробуйте ещё раз',)
             bot.register_next_step_handler_by_chat_id(message.chat.id, voice)
             
-## 6) *Expirience:*  __https://github.com/Dmit10kidd__
+## 6) __Expirience:__  *https://github.com/Dmit10kidd*
 
-## 7) *Education:* **Multifield college based on Tyumen Industrial University,** *Tyumen, Russia, 2017-2019.* **Graduated on speciality: Radio communication, broadcasting and television**
+## 7) __Education:__ *Multifield college based on Tyumen Industrial University, Tyumen, Russia, 2017-2019. Graduated on speciality: Radio communication, broadcasting and television*
 
-## 8) *English skills:* I'm studying English from 1st class of elementary school and self-study by watching films, playing videogames and practice with native speakers.
+## 8) __English skills:__ I'm studying English from 1st class of elementary school and self-study by watching films, playing videogames and a bit practice with native speakers.
